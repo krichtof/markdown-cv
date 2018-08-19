@@ -60,7 +60,11 @@ Résultat  :
 - Création et priorisation du Product Backlog
 
 `Janvier 2013 - Aujourd'hui`
-**Fondateur** du logiciel Merci Edgar
+**Fondateur** du logiciel Merci Edgar (CRM dédié au monde du spectacle vivant)
+
+- Lean Startup
+- Growth Hacking
+- Conception, développement et déploiement
 
 `Novembre 2017 - Aujourd'hui`
 **Organisateur** du Meetup Développeurs communicants
