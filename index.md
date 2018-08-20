@@ -59,12 +59,6 @@ Résultat  :
 - Définition de la vision produit
 - Création et priorisation du Product Backlog
 
-`Janvier 2013 - Aujourd'hui`
-**Fondateur** du logiciel Merci Edgar (CRM dédié au monde du spectacle vivant)
-
-- Lean Startup
-- Growth Hacking
-- Conception, développement et déploiement
 
 `Novembre 2017 - Aujourd'hui`
 **Organisateur** du Meetup Développeurs communicants
@@ -87,6 +81,12 @@ Résultat  :
 - Test Driven Developpement
 - Déploiement continu
 
+`Janvier 2013 - Aujourd'hui`
+**Fondateur** du logiciel Merci Edgar (CRM dédié au monde du spectacle vivant)
+
+- Lean Startup
+- Growth Hacking
+- Conception, développement et déploiement
 ## Artiste
 
 `Septembre 2002 - Aujourd'hui`
