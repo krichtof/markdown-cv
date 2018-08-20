@@ -17,7 +17,8 @@ Coach agile
 ## Coach
 
 `Août 2016 - Aujourd'hui`
-**Coach personnel** d'une dirigeante associative (plus de 500 000 adhérents revendiqués)
+**Coach personnel** d'une dirigeante associative  
+(près de 540 000 adhérents revendiqués)
 
 - recrutement de l'équipe artistique (producteur, metteur en scène, attaché de presse)
 - accompagnement personnel
@@ -30,14 +31,15 @@ Résultat  :
 - couverture mediatique (chaines d'info continue, radios nationales, presse nationale et régionale)
 
 `Septembre 2017 - Février 2018`
-**Coach Lean Startup** pour la Ville de Paris
+**Coach Lean Startup**, *Ville de Paris*
 
 - accompagnement de l'intrapreneur vers une culture agile
 - aide à la mise en place d'une stratégie pour l'acquisition de partenaires et d'utilisateurs
 - adoption enthousiaste de la démarche Lean Startup par l'intrapreneur
 
 `Décembre 2016, Mai 2017`
-**Co-Product Owner** pour beta.gouv.fr, Services du Premier Ministre
+**Co-Product Owner**, *beta.gouv.fr*  
+*Services du Premier Ministre*
 
 - Accompagnement de l'intrapreneuse
 - Facilitation des ateliers de l'équipe produit
@@ -46,12 +48,12 @@ Résultat  :
 ## Agiliste
 
 `Février 2018 - Aujourd'hui`
-**Membre actif**, Association Agile France
+**Membre actif**, *Association Agile France*
 
 - Préparation et organisation d'un forum ouvert de 4 jours au Château de Monteton prévu en avril 2019
 
 `Février 2018 - Août 2018`
-**Directeur technique** d'une équipe agile, Miniplexe
+**Directeur technique** d'une équipe agile, *Miniplexe*
 
 - Contribution à la stratégie d'entreprise
 - Elaboration de la roadmap
@@ -66,7 +68,7 @@ Résultat  :
 - Apprendre aux développeurs des outils pour mieux communiquer avec leurs clients (EventStorming, Impact Mapping, ...)
 
 `Septembre 2017 - Février 2018`
-**Lead Dev** Startup de Ville, Ville de Paris
+**Lead Dev** Startup de Ville, *Ville de Paris*
 
 - Conception, développement, déploiement d'une application web
 - Langage : Ruby on Rails
@@ -74,7 +76,7 @@ Résultat  :
 - Déploiement continu
 
 `Mai 2017 - Mai 2018`
-**Lead Dev** pour beta.gouv.fr, Services du Premier Ministre
+**Lead Dev**, *beta.gouv.fr, Services du Premier Ministre*
 
 - Conception, développement, déploiement d'une application web
 - Langage : Ruby on Rails
@@ -82,15 +84,17 @@ Résultat  :
 - Déploiement continu
 
 `Janvier 2013 - Aujourd'hui`
-**Fondateur** du logiciel Merci Edgar (CRM dédié au monde du spectacle vivant)
+**Fondateur** du logiciel *Merci Edgar*  
+CRM dédié au monde du spectacle vivant
 
 - Lean Startup
 - Growth Hacking
 - Conception, développement et déploiement
+
 ## Artiste
 
 `Septembre 2002 - Aujourd'hui`
-**Chanteur, Compositeur, Pianiste**, Monsieur Robi
+**Chanteur, Compositeur, Pianiste**, *Monsieur Robi*
 
 - Nombreux concerts parisiens, notamment au Studio de l'Ermitage et au Sentier des Halles
 - Passage télé sur le canapé rouge de Michel Drucker dans l'émission Vivement Dimanche (2010)
@@ -100,14 +104,15 @@ Résultat  :
 - Mis en scène par Alain Degois dit Papy (a révélé notamment Jamel Debbouze)
 
 `Septembre 2011 - Aujourd'hui`
-**Intervenant musical en milieu scolaire**, Ecoles primaires de Meaux
+**Intervenant musical en milieu scolaire**  
+*Ecoles primaires de Meaux*
 
 - ateliers d'écriture de paroles pour élèves de CP et CE1
 - initiation au chant
 - enregistrement de chansons originales, avec paroles écrites par les élèves
 
 `Novembre 2002 - Septembre 2013`
-**Impro-musicien**, Paris Impro et Improvisafond
+**Impro-musicien**, *Paris Impro* et *Improvisafond*
 
 - Improvisation de musiques au piano à partir des improvisations des comédiens
 
@@ -124,7 +129,7 @@ Certification Professional Scrum Product Owner, Scrum.org
 
 `1995 - 2000`
 DESS Communication, Réseau et Image
-Université de Marne-la-Vallée
+*Université de Marne-la-Vallée*
 
 - Maîtrise d'informatique
 - Licence d'informatique
