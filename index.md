@@ -124,13 +124,17 @@ Membre du groupe d'étude francophone sur l'approche thérapeutique de Virginia 
 `2018`
 Membre du cercle de coaching France-Québec
 
-`Juin 2017`
+`2017`
 Certification Professional Scrum Product Owner, Scrum.org
 
-`1995 - 2000`
-DESS Communication, Réseau et Image
-*Université de Marne-la-Vallée*
+`2000`
+DESS Communication, Réseau et Image, *Université de Marne-la-Vallée*
 
-- Maîtrise d'informatique
-- Licence d'informatique
-- DEUG MIAS (Mathématiques et Informatique appliquées aux sciences)
+`1999`
+Maîtrise d'informatique
+
+`1999`
+Licence d'informatique
+
+`1998`
+DEUG MIAS (Mathématiques et Informatique appliquées aux sciences)
