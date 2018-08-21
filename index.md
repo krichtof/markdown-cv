@@ -20,22 +20,22 @@ Coach agile
 **Coach personnel** d'une dirigeante associative  
 (près de 540 000 adhérents revendiqués)
 
-- recrutement de l'équipe artistique (producteur, metteur en scène, attaché de presse)
-- accompagnement personnel
+- Recrutement de l'équipe artistique (producteur, metteur en scène, attaché de presse)
+- Accompagnement personnel
 
 Résultat  :
 
-- tournée nationale en 2017 dans des théâtres de plus de 250 personnes
-- écriture d'un nouveau spectacle
-- nouvelle tournée prévue à partir d'octobre 2019
-- couverture mediatique (chaines d'info continue, radios nationales, presse nationale et régionale)
+- Tournée nationale en 2017 dans des théâtres de plus de 250 personnes
+- Ecriture d'un nouveau spectacle
+- Nouvelle tournée prévue à partir d'octobre 2019
+- Couverture mediatique (chaines d'info continue, radios nationales, presse nationale et régionale)
 
 `Septembre 2017 - Février 2018`
 **Coach Lean Startup**, *Ville de Paris*
 
-- accompagnement de l'intrapreneur vers une culture agile
-- aide à la mise en place d'une stratégie pour l'acquisition de partenaires et d'utilisateurs
-- adoption enthousiaste de la démarche Lean Startup par l'intrapreneur
+- Accompagnement de l'intrapreneur vers une culture agile
+- Aide à la mise en place d'une stratégie pour l'acquisition de partenaires et d'utilisateurs
+- Adoption enthousiaste de la démarche Lean Startup par l'intrapreneur
 
 `Décembre 2016, Mai 2017`
 **Co-Product Owner**, *beta.gouv.fr*  
@@ -107,9 +107,9 @@ CRM dédié au monde du spectacle vivant
 **Intervenant musical en milieu scolaire**  
 *Ecoles primaires de Meaux*
 
-- ateliers d'écriture de paroles pour élèves de CP et CE1
-- initiation au chant
-- enregistrement de chansons originales, avec paroles écrites par les élèves
+- Ateliers d'écriture de paroles pour élèves de CP et CE1
+- Initiation au chant
+- Enregistrement de chansons originales, avec paroles écrites par les élèves
 
 `Novembre 2002 - Septembre 2013`
 **Impro-musicien**, *Paris Impro* et *Improvisafond*
