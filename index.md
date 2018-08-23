@@ -20,15 +20,8 @@ Coach agile
 **Coach personnel** d'une dirigeante associative  
 (près de 540 000 adhérents revendiqués)
 
-- Recrutement de l'équipe artistique (producteur, metteur en scène, attaché de presse)
 - Accompagnement personnel
-
-Résultat  :
-
-- Tournée nationale en 2017 dans des théâtres de plus de 250 personnes
-- Ecriture d'un nouveau spectacle
-- Nouvelle tournée prévue à partir d'octobre 2019
-- Couverture mediatique (chaines d'info continue, radios nationales, presse nationale et régionale)
+- Recrutement de l'équipe artistique (producteur, metteur en scène, attaché de presse)
 
 `Septembre 2017 - Février 2018`
 **Coach Lean Startup**, *Ville de Paris*
