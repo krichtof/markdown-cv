@@ -12,6 +12,9 @@ Coach agile
   <a href="https://github.com/krichtof"><i class="fab fa-github"></i> krichtof</a>
 </div>
 
+<p/>
+J'aide les équipes à atteindre leurs objectifs.
+
 
 
 ## Coach
